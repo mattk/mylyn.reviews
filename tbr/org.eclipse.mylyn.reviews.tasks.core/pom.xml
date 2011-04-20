@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.eclipse.mylyn.reviews</groupId>
   <artifactId>org.eclipse.mylyn.reviews.tasks.core</artifactId>
-  <version>0.7.0-SNAPSHOT</version>
+  <version>0.7.0.v20110316-0100</version>
   <packaging>eclipse-plugin</packaging>
   <build>
     <plugins>
