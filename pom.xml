@@ -60,12 +60,12 @@
 	<repository>
 	  <id>eclipse-orbit</id>
 	  <layout>p2</layout>
-	  <url>http://download.eclipse.org/tools/orbit/downloads/drops/S20110304120314/repository/</url>
+	  <url>http://download.eclipse.org/tools/orbit/downloads/drops/R20110523182458/repository/</url>
 	</repository>
 	<repository>
 	  <id>egit</id>
 	  <layout>p2</layout>
-	  <url>http://download.eclipse.org/egit/updates-nightly/</url>
+	  <url>http://download.eclipse.org/egit/updates-1.0/</url>
 	</repository>
   </repositories>
 
