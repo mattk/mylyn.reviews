@@ -63,7 +63,7 @@
 	<repository>
 	  <id>egit</id>
 	  <layout>p2</layout>
-	  <url>http://download.eclipse.org/egit/updates/</url>
+	  <url>http://download.eclipse.org/egit/updates-1.0/</url>
 	</repository>
   </repositories>
 
