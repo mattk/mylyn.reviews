@@ -8,7 +8,7 @@
     <version>0.8.3-SNAPSHOT</version>
   </parent>
   <artifactId>org.eclipse.mylyn.reviews.ui</artifactId>
-  <version>0.8.0.v20110608-1400</version>
+  <version>0.8.1.v20111013-0010</version>
   <packaging>eclipse-plugin</packaging>
   <build>
     <plugins>
