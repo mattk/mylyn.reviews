@@ -5,7 +5,7 @@
   <parent>
     <artifactId>mylyn-reviews-tasks-parent</artifactId>
     <groupId>org.eclipse.mylyn.reviews</groupId>
-    <version>0.8.4-SNAPSHOT</version>
+    <version>0.8.5-SNAPSHOT</version>
   </parent>
   <groupId>org.eclipse.mylyn.reviews</groupId>
   <artifactId>org.eclipse.mylyn.reviews.tasks.dsl</artifactId>
