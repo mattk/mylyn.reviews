@@ -10,7 +10,6 @@
   <modules>
     <module>tbr</module>
     <module>gerrit</module>
-    <module>r4e</module>
     <module>framework</module>
     <module>releng/reviews-site</module>
   </modules>
